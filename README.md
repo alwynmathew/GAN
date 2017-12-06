@@ -1,14 +1,14 @@
 # GAN
 Pytorch implementation of Vanilla GAN
 
-dataset = 'mnist'
-epoch = 25
-batch_size = 64
-sample_num = 16
-save_dir = './models'
-result_dir = './results'
-log_dir = './logs'
-lrG = 0.0002
-lrD = 0.0002
-beta1 = 0.5
+dataset = 'mnist' <br />
+epoch = 25 <br />
+batch_size = 64 <br />
+sample_num = 16 <br />
+save_dir = './models' <br />
+result_dir = './results' <br />
+log_dir = './logs' <br />
+lrG = 0.0002 <br />
+lrD = 0.0002 <br />
+beta1 = 0.5 <br />
 beta2 = 0.999
