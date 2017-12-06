@@ -1,4 +1,4 @@
-# GAN
+# Vanilla GAN
 Pytorch implementation of Vanilla GAN
 
 dataset = 'mnist' <br />
